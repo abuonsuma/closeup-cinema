@@ -35,8 +35,6 @@ h1{
     height: 30px;
 }
 
-.footer{
-    display: flex;
 }
 
 .one{
@@ -69,3 +67,6 @@ h1{
     margin-left: 250px;
     justify-content: space-around;
 }
+
+.footer{
+    display: flex;
