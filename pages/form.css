@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
 }
 
 body{
@@ -36,13 +37,15 @@ h1{
 
 .footer{
     display: flex;
-    justify-content: space-between;
 }
 
 .one{
+    color: white;
     background-color: #f6741d;
     height: 200px;
     flex: 1;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .action{
